@@ -22,6 +22,9 @@
 
 <br/>  
 
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changtrailanhlung&layout=compact)</div> 
+
+
 
 
 ## Buy Me A Coffee
