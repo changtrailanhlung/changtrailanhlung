@@ -22,7 +22,7 @@
 
 <br/>  
 
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changtrailanhlung&layout=compact)</div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changtrailanhlung&layout=compact" align="center" /></div> 
 
 
 
