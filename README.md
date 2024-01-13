@@ -6,7 +6,10 @@
 </div>  
   
 
-### <div align="center">I'm Hong Nguyen, a IOT engineer😉</div>  
+### <div align="center">I'm Hong Nguyen, a IOT engineer😉</div>
+  
+
+- 🌱 I’m currently learning software engineer at FPT University
 
 - 📫 How to reach me **lehongnnguyen@gmail.com**
 
