@@ -121,7 +121,3 @@
 </div>
 <br/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc?username=changtrailanhlung&color=blue&style=flat-square&label=PROFILE+VIEWS" align="center" />
-</div>
-<br/>
