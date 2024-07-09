@@ -120,3 +120,8 @@
 <p><a href="https://www.buymeacoffee.com/changtrailanhlung"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="changtrailanhlung" /></a></p><br><br>
 </div>
 <br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc?username=changtrailanhlung&color=blue&style=flat-square&label=PROFILE+VIEWS" align="center" />
+</div>
+<br/>
