@@ -6,7 +6,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Hong Nguyen, a IOT engineer😉</div>
+### <div align="center">I'm Hong Nguyen, a IOT engineer and Fullstack Developer😉</div>
 
 - 🌱 I’m currently learning software engineer at FPT University
 
