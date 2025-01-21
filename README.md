@@ -8,7 +8,9 @@
 
 ### <div align="center">I'm Hong Nguyen, a IOT engineer and Fullstack Developer😉</div>
 
-- 🌱 I’m currently learning software engineer at FPT University
+- 🌱 I’m currently learning MBA (Master of Business Administration) at FPT School of Bussiness & Techonology (FSB)
+
+- 🌱 I’m currently learning Software Engineer at FPT University
 
 - 📫 How to reach me **lehongnnguyen@gmail.com**
 
