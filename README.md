@@ -6,7 +6,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Hong Nguyen, IT Manager, a IOT engineer, System Admin, Fullstack Developer, Project Management & Business Administration😉</div>
+### <div align="center">I'm Hong Nguyen, IT Manager, a IOT engineer, System Admin, Fullstack Developer, Project Management & Bussiness Administration😉</div>
 
 - 🌱 I’m currently learning MBA (Master of Business Administration) at FPT School of Bussiness & Techonology (FSB)
 
