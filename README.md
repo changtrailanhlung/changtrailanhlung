@@ -6,7 +6,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Hong+Nguyen%2C+IT+Manager%2C+a+IOT+engineer%2C+System+Admin%2C+Fullstack+Developer%2C+Project+Management+%26+Bussiness+Administration%F0%9F%98%89" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Hong+Nguyen" alt="Typing SVG" /></a>
 ### <div align="center">I'm Hong Nguyen, IT Manager, a IOT engineer, System Admin, Fullstack Developer, Project Management & Bussiness Administration😉</div>
 
 - 🌱 I’m currently learning MBA (Master of Business Administration) at FPT School of Bussiness & Techonology (FSB)
