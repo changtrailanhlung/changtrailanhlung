@@ -7,7 +7,7 @@
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Hong+Nguyen" alt="Typing SVG" /></a>
-### <div align="center">I'm Hong Nguyen, IT Manager, a IOT engineer, System Admin, Fullstack Developer, Project Management & Bussiness Administration😉</div>
+### <div align="center">IT Manager, a IOT engineer, System Admin, Fullstack Developer, Project Management & Bussiness Administration😉</div>
 
 - 🌱 I’m currently learning MBA (Master of Business Administration) at FPT School of Bussiness & Techonology (FSB)
 
