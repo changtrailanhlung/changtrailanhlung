@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning MBA (Master of Business Administration) at FPT School of Bussiness & Techonology (FSB)
 
-- 🌱 I’m currently learning Software Engineer **(Specialization: Embedded System Engineer)** at FPT University
+- 🌱 I’m currently learning Software Engineer **(Specialization: Embedded System Engineer)**
 
 - 📫 How to reach me **lehongnnguyen@gmail.com**
 
